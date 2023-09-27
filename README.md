@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **engelsmlb@gmail.com**
 
-- ⚡ Fun fact **I love baseball**
+- ⚡ Fun fact **I love cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
