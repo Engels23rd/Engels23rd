@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engels Urbano Muñoz</h1>
-<h3 align="center">I am a Dominican senior software technician and I love programming, baseball and playing games.</h3>
+<h3 align="center">I am a Dominican software developer and I love programming, baseball and playing games.</h3>
 
 - 🌱 I’m currently learning **Iam studying a Senior software technician in ITLA**
 
